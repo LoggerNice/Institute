@@ -1,0 +1,25 @@
+.header {
+    margin-bottom: 30px;
+}
+
+.input {
+    margin-bottom: 15px;
+}
+
+.list {
+    margin-top: 30px;
+}
+
+.ls {
+    margin-bottom: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.block {
+    display: flex;
+}
+
+.pdr {
+    padding: 1.5rem 0.5rem 0.5rem 0;
+}
